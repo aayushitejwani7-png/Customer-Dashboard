@@ -1,4 +1,7 @@
 # Customer-Data-Dashboard
+## 📷 Dashboard Preview
+
+![Customer Dashboard](Customer%20Data%20Dashboard.png)
 # 📊 Customer Behavior Dashboard
 ## 📌 Project Overview
 
